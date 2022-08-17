@@ -52,14 +52,14 @@ Name|Description
 [俺TOOLS スキルシミュレータ](https://ffxiv.ss.exdreams.net/)|スキルシミュレータ
 [DoW/M Rotations](http://ffxivrotations.com/)|スキル回しの画像生成
 [Partner Calculator](http://partnercalc.herokuapp.com/)|クロポジパートナーチェック
-[FF Logs](https://www.fflogs.com/)|
-[xivanalysis](https://xivanalysis.com/)|
+[FF Logs](https://www.fflogs.com/)|logs
+[xivanalysis](https://xivanalysis.com/)|analysis
 [xivsim](https://www.xivsim.com/)|レイドシミュレータ
 [軽減表ジェネレーター](https://docs.google.com/spreadsheets/d/1By_2GPoSv3OFb4CkkuFjU5t6BQwNHVfNEii9uXEXG2M/edit#gid=934753148)|軽減表自動生成
 [Universal GCD Calculator for 6.0](https://docs.google.com/spreadsheets/u/1/d/1Dl1qsBt11Wk6QCSSImpq_Hkxy1EHHdaEDwSrfPwjC9s/edit#gid=0)|6.0_GCDシミュレータ
-[Etro](https://etro.gg/gearset)|
-[Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|
-[俺TOOLS 装備シュミレータ](https://ffxiv.es.exdreams.net/)|
+[Etro](https://etro.gg/gearset)|gearset
+[Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|gearset
+[俺TOOLS 装備シュミレータ](https://ffxiv.es.exdreams.net/)|gearset
 [DNC Gear Calculator - Endwalker (6.11) - v1.10](https://docs.google.com/spreadsheets/d/1C13bsFedHyR0l6YJhqahfjOlQpTPCpCRL9TdItD-Jk4/edit)|踊り子シミュレータ
 
 ## Web App_ギャザクラ、アチーブ、コレクター
