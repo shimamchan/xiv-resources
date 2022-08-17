@@ -19,52 +19,48 @@ Name|Description
 
 Name|Description
 ---|---
-[Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources.
-[FFXIV MarketBoard](https://www.ffxivmb.com)|Fansite for crowdsourcing MarketBoard data.
-[Universalis](https://universalis.app/)|Crowdsourced market board website and API.
-[A Realm Remapped](https://arealmremapped.com/)|Collection of all maps and locations in FINAL FANTASY XIV including FATEs, Treasure maps, Vistas, Aether Currents and more.
+[Garland Tools](https://www.garlandtools.org/)|データベース
+[Eriones](https://en.eriones.com/)|データベース
+[FFXIV MarketBoard](https://www.ffxivmb.com)|マケボ情報
+[Universalis](https://universalis.app/)|マケボ情報
+[A Realm Remapped](https://arealmremapped.com/)|マップ情報（FATE、地図、エーテライト等）
 [Heavenswhere](http://heavenswhere.com/)|デイリーモブ、地図、風脈等の地図情報
-[Faloop](https://faloop.app/)|A Final Fantasy XIV hunt toolkit.
-[Eorzea Collection](https://ffxiv.eorzeacollection.com/)|Share your glamours and browse through an extensive collection of looks for your Final Fantasy XIV character.
-[Eriones](https://en.eriones.com/)|Comprehensive information website for FFXIV.
-[俺TOOLS TODOリスト](https://ffxiv.ap.exdreams.net/todo/)|(JP) Daily/Weekly activity lists.
-[XIV ToDo](https://xivtodo.com/)|Completion trackers, dashboards, and daily & weekly activities.
-[FFXIV Squadron](http://ffxivsquadron.com/)|A webapp to solve squadron stats for a given mission.
-[FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|XIV Bars is a simple app for previewing the Final Fantasy XIV W Cross HotBar (WXHB).
-[Lodestone News](http://na.lodestonenews.com/)|Automatic Lodestone news updates for your Discord server.
-[Lodestone When](https://karashiiro.github.io/lodestone-when/)|Estimate when a FFXIV character was created with just its Lodestone ID.
-[XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|An interface for browsing the XIVAPI.
-[XIV Mod Archive](https://www.xivmodarchive.com/)|Mod archive for FFXIV.
-[FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor.
-[Is FFXIV Up](https://is.xivup.com/)|FFXIV server status monitor.
-[XIVStatus](https://xivstatus.com/)|FFXIV server status monitor.
-[Name Generator](https://ffxiv.pf-n.co/name-generator)|FFXIV random name generator for all the races.
-[Characa](https://characa.kkimu.dev/)|Character card generator.
+[Faloop](https://faloop.app/)|モブハン
+[俺TOOLS TODOリスト](https://ffxiv.ap.exdreams.net/todo/)|TODOリスト
+[XIV ToDo](https://xivtodo.com/)|TODOリスト
+[FFXIV Squadron](http://ffxivsquadron.com/)|冒険者小隊のステータスシミュレータ
+[FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|クロスホットバーシミュレータ
+[Lodestone News](http://na.lodestonenews.com/)|ロドストニュースのDiscordBot
+[FFXIV RealTime Server Status](https://fx.fo/)|サーバステータスモニタリング
+[Is FFXIV Up](https://is.xivup.com/)|サーバステータスモニタリング
+[XIVStatus](https://xivstatus.com/)|サーバステータスモニタリング
+[Lodestone When](https://karashiiro.github.io/lodestone-when/)|キャラクタ作成日時を検索
+[Name Generator](https://ffxiv.pf-n.co/name-generator)|キャラクターネームジェネレータ
+[Characa](https://characa.kkimu.dev/)|キャラクターカードジェネレータ
+[Eorzea Collection](https://ffxiv.eorzeacollection.com/)|ミラプリ画像
+[XIV Mod Archive](https://www.xivmodarchive.com/)|MOD画像
 
 ## Web App_バトル
 
 
 Name|Description
 ---|---
-[俺TOOLS 作戦室](https://ffxiv.phone.exdreams.net/)|Voice chat rooms.
-[俺TOOLS 散開マクロエディタ](https://ffxiv.ap.exdreams.net/spreading/)|(JP) Raid macro editor.
-[俺TOOLS スキルシミュレータ](https://ffxiv.ss.exdreams.net/)|Skill simulator.
+[Toolbox Gaming Space Strat Maker](https://ff14.toolboxgaming.space/)|解法図作成
+[Toolbox Gaming Space Timeline Planner](https://ff14.toolboxgaming.space/timeline/)|タイムライン作成
+[俺TOOLS 作戦室](https://ffxiv.phone.exdreams.net/)|解法図作成
+[俺TOOLS 散開マクロエディタ](https://ffxiv.ap.exdreams.net/spreading/)|マクロエディタ
+[俺TOOLS スキルシミュレータ](https://ffxiv.ss.exdreams.net/)|スキルシミュレータ
 [DoW/M Rotations](http://ffxivrotations.com/)|スキル回しの画像生成
 [Partner Calculator](http://partnercalc.herokuapp.com/)|クロポジパートナーチェック
-[Toolbox Gaming Space Strat Maker](https://ff14.toolboxgaming.space/)|Strat maker for FFXIV.
-[Toolbox Gaming Space Timeline Planner](https://ff14.toolboxgaming.space/timeline/)|Timeline planner for FFXIV.
-[FF Logs](https://www.fflogs.com/)|Combat analysis website.
-[xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers.
-[xivsim](https://www.xivsim.com/)|FFXIV Raid Simulator.
-
-## Web App_装備
-
-
-Name|Description
----|---
-[Etro](https://etro.gg/gearset)|装備シミュレータ
-[Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|Gear planner and toolkit for FFXIV.
-[俺TOOLS 装備シュミレータ](https://ffxiv.es.exdreams.net/)|Equipment simulator.
+[FF Logs](https://www.fflogs.com/)|
+[xivanalysis](https://xivanalysis.com/)|
+[xivsim](https://www.xivsim.com/)|レイドシミュレータ
+[軽減表ジェネレーター](https://docs.google.com/spreadsheets/d/1By_2GPoSv3OFb4CkkuFjU5t6BQwNHVfNEii9uXEXG2M/edit#gid=934753148)|軽減表自動生成
+[Universal GCD Calculator for 6.0](https://docs.google.com/spreadsheets/u/1/d/1Dl1qsBt11Wk6QCSSImpq_Hkxy1EHHdaEDwSrfPwjC9s/edit#gid=0)|6.0_GCDシミュレータ
+[Etro](https://etro.gg/gearset)|
+[Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|
+[俺TOOLS 装備シュミレータ](https://ffxiv.es.exdreams.net/)|
+[DNC Gear Calculator - Endwalker (6.11) - v1.10](https://docs.google.com/spreadsheets/d/1C13bsFedHyR0l6YJhqahfjOlQpTPCpCRL9TdItD-Jk4/edit)|踊り子シミュレータ
 
 ## Web App_ギャザクラ、アチーブ、コレクター
 
@@ -76,12 +72,16 @@ Name|Description
 [俺TOOLS レシピ検索](https://ffxiv.rs.exdreams.net/)|Recipe list and search.
 [俺TOOLS 食事リスト](https://ffxiv.es.exdreams.net/meal_list.html)|Meal list.
 [俺TOOLS スコアマスター](https://ffxiv.sc.exdreams.net/)|Perform practice for game tracks.
-[Lalachievements](https://www.lalachievements.com)|Keep track of your progress collecting everything that can be collected in FFXIV.
-[FFXIV Collect](https://ffxivcollect.com/)|Another website for tracking your Final Fantasy XIV collections.
+[Lalachievements](https://www.lalachievements.com)|コレクターチェック
+[FFXIV Collect](https://ffxivcollect.com/)|コレクターチェック
 [FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily.
 [Cat became hungry](https://en.ff14angler.com/index.php?)|釣りデータベース
-[Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
-[xivLeve](https://xivleve.org/)|Every hour new easy FFXIV leves! The easiest to buy items from the market board to maximize profit doing levequests.
+[Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|オーシャンフィッシング
+[xivLeve](https://xivleve.org/)|リーブ納品物の最安値サーバ検索
+[俺TOOLS お天気リスト](https://ffxiv.wl.exdreams.net/)|天気
+[eorzea-weather](https://eorzea-weather.info/)|天気
+[FFXIV Weather Lookup](https://asvel.github.io/ffxiv-weather/)|天気
+[Skywatcher](https://ffxiv.pf-n.co/skywatcher)|天気
 
 ## Web App_ゴールドソーサー、ミニゲーム
 
@@ -105,16 +105,6 @@ Name|Description
 [Lost Actions](https://ffxiv.kmiwl.de/bozja/)|Lost actions list and tracker for Bozja and Zadnor.
 [DRS Chess](https://drschess.github.io/DrsChess/)|Queen's Guard chess mechanic practice website.
 
-## Web App_天気
-
-
-Name|Description
----|---
-[俺TOOLS お天気リスト](https://ffxiv.wl.exdreams.net/)|Weather list.
-[eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
-[FFXIV Weather Lookup](https://asvel.github.io/ffxiv-weather/)|Weather forecast and lookup for Final Fantasy XIV.
-[Skywatcher](https://ffxiv.pf-n.co/skywatcher)|Schedule for weather in Eorzea and forecaster for upcoming weather patterns.
-
 ## Web APIs
 
 
@@ -128,7 +118,8 @@ Name|Description
 [Kal's FFXIV API](https://app.swaggerhub.com/apis-docs/kalilistic/ffxiv-api/)|REST API for lodestone ids and more.
 [Lodestone News](https://documenter.getpostman.com/view/1779678/TzXzDHVk)|REST API for Lodestone news.
 [Thaliak](https://thaliak.xiv.dev/)|Game version/patch tracking site offering a GraphQL API.
-[XIVAPI](https://xivapi.com/)|Game data API.
+[XIVAPI](https://xivapi.com/)|ゲームデータAPI
+[XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|APIブラウザ
 [XIV-Character-Cards](https://github.com/ArcaneDisgea/XIV-Character-Cards)|Character card generator.
 [XIV Plugins API](https://app.swaggerhub.com/apis/kalilistic/xiv-plugins-api)|REST API for dalamud and ACT plugins.
 
@@ -259,6 +250,3 @@ Name|Description
 [How to be a Math Wizard - Third Edition](https://docs.google.com/document/d/1OpfKYmf31FpES3IHOrl3H8phU4Np8FChH4B4lP1ZE08/edit)|ダメージ計算
 [Limit Break](https://docs.google.com/document/d/1JK9BKbW49Kye5V60jD16rvzmliurLE1Ngq6Z7-WubKI/edit)|リミットブレイク解説
 [6.0 Substat Tiers](https://docs.google.com/spreadsheets/u/1/d/1oCfvBE1VpkWCG96LAkqLNn9cCR1FIQM_iUNS056k7Ik/edit#gid=0)|6.0_サブステ閾値表
-[軽減表ジェネレーター](https://docs.google.com/spreadsheets/d/1By_2GPoSv3OFb4CkkuFjU5t6BQwNHVfNEii9uXEXG2M/edit#gid=934753148)|軽減表自動生成
-[Universal GCD Calculator for 6.0](https://docs.google.com/spreadsheets/u/1/d/1Dl1qsBt11Wk6QCSSImpq_Hkxy1EHHdaEDwSrfPwjC9s/edit#gid=0)|6.0_GCDシミュレータ
-[DNC Gear Calculator - Endwalker (6.11) - v1.10](https://docs.google.com/spreadsheets/d/1C13bsFedHyR0l6YJhqahfjOlQpTPCpCRL9TdItD-Jk4/edit)|踊り子シミュレータ
