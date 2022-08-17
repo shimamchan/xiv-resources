@@ -180,7 +180,7 @@ Name|Description
 ---|---
 [FFXIV Explorer](https://github.com/goaaats/ffxiv-explorer-fork)|Modernized fork of FFXIV Explorer with added usability features.
 [FFXIVMon Reborn](https://github.com/SapphireServer/ffxivmon)|A FFXIV Network Analysis Tool.
-[FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV. Doubles as a working dictionary of the game's opcodes and how to create their conditions.
+[FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV.
 [FFXIV-Packet-Dissector](https://github.com/zhyupe/FFXIV-Packet-Dissector)|Wireshark plugins for dissecting FFXIV packets.
 [Godbert](https://github.com/xivapi/SaintCoinach)|Godbert is a simple application to display game data and 3D models from Final Fantasy XIV.
 [Sapphire](https://github.com/SapphireServer/Sapphire)|A Final Fantasy XIV 4.0+ Server Emulator written in C++.
@@ -201,7 +201,7 @@ Name|Description
 [OverlayPlugin](https://github.com/ngld/OverlayPlugin)|Yet another OverlayPlugin fork.
 [Paisley Park](https://github.com/LeonBlade/PaisleyPark)|A waymark preset tool for FFXIV.
 [SkillDisplay](https://github.com/rawrington/SkillDisplay)|A simple no-frills ACTWebSocket overlay for showing actions pressed in an overlay window.
-[Triggernometry](https://github.com/paissaheavyindustries/Triggernometry)|Triggernometry is a plugin for Advanced Combat Tracker, intended to extend its built-in trigger system with a variety of different actions and configuration options.
+[Triggernometry](https://github.com/paissaheavyindustries/Triggernometry)|plugin for Advanced Combat Tracker
 [universalis_act_plugin](https://github.com/goaaats/universalis_act_plugin)|ACT plugin to upload market board data to https://universalis.app
 
 ## ACT: Overlays
@@ -210,11 +210,10 @@ Name|Description
 Name|Description
 ---|---
 [ACT_DFAPlugin](https://github.com/qitana/ACT_DFAPlugin)|FFXIV Duty Finder Assist for [ngld/OverlayPlugin](https://github.com/ngld/OverlayPlugin).
-[ACT_PingPlugin](https://github.com/qitana/ACT_PingPlugin)|The add-on of [ngld/OverlayPlugin](https://github.com/ngld/OverlayPlugin) which shows ping status for connected server.
+[ACT_PingPlugin](https://github.com/qitana/ACT_PingPlugin)|The add-on shows ping status for connected server.
 [cactbot](https://github.com/quisquous/cactbot)|FFXIV JavaScript Raiding Overlay.
 [Codex](https://github.com/mkaminsky11/Codex)|Extra gauges and buff trackers for FFXIV.
-[ffxiv_act_dfassist](https://github.com/easly1989/ffxiv_act_dfassist)|Duty Finder Assist Plugin for ACT, Based on [devunt/DFAssist](https://github.com/devunt/DFAssist).
-[ffxiv-ember-overlay](https://github.com/GoldenChrysus/ffxiv-ember-overlay)|React + Redux overlay for the OverlayPlugin and ACTWebSocket plugins for Advanced Combat Tracker for use with Final Fantasy XIV.
+[ffxiv_act_dfassist](https://github.com/easly1989/ffxiv_act_dfassist)|Duty Finder Assist Plugin for ACT
 [ffxiv-opener-overlay](https://github.com/ChalkPE/ffxiv-opener-overlay)|ACT overlay for Final Fantasy XIV that shows your real-time skill sequences.
 [horizoverlay](https://github.com/bsides/horizoverlay)|A simple horizontal damage meter overlay for Final Fantasy XIV.
 [ikegami](https://github.com/hibiyasleep/ikegami)|Horizontal FFXIV Miniparse Overlay.
@@ -225,29 +224,21 @@ Name|Description
 ## Dalamud
 
 
-The website [XIV Plugins](https://xivplugins.com) has a list of (probably) every single Dalamud plugin and repository on GitHub and a few from other sources. This list is automatically generated so includes plugins and repositories whether or not they are completed or functional. Akurosia has a [more curated list](https://github.com/Akurosia/MyCustomDalamudPluginRepoCollection) of plugin repositories. The list below contains plugins that are known to be completed.
-
-Be aware that Dalamud plugins that are not on the official repository may be absent because they interact with the game in a potentially-detectable manner. However, a plugin not being on the official repository is also not guaranteed to interact with the game in a detectable manner. Consider asking the author of any untrusted plugin about the potential for detection.
-
-
 Name|Description
 ---|---
 [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
-[DalamudPython](https://git.sr.ht/~jkcclemens/DalamudPython)|Allows you to use Dalamud via Python in the chat box. Supports one-liners, printing results to chat, or making full scripts over multiple commands.
 [FFLogsLookupPlugin](https://github.com/maributt/FFLogsLookupPlugin)|A Dalamud plugin to display an inspected character's parses directly in the inspect window.
 [FFLogsViewer](https://github.com/Aireil/FFLogsViewer)|Small plugin to view FF Logs ranking percentiles in-game.
 [FPSLimiter](https://github.com/maributt/FPSLimiter)|A Dalamud plugin to manage your FPS cap with a command.
-[ffxiv-literal-map-link](https://github.com/Asvel/ffxiv-literal-map-link)|(Only CN tested) Dalamud plugin that turns map coordinates literal into interactable map link when you post messages.
 [ffxiv-startup-commands](https://github.com/saltycog/ffxiv-startup-commands)|Perform various behaviors/commands right after logging into a character.
 [HeelsPlugin](https://github.com/LeonBlade/HeelsPlugin)|A plugin used for FFXIVQuickLauncher to offset your character height when using certain high heel mods.
 [HousingPos](https://github.com/Bluefissure/HousingPos)|A xivlauncher plugin to save/load positions of the housing furnitures.
 [IMEPlugin](https://github.com/Bluefissure/IMEPlugin)|A simple plugin that adds an overlay to support Chinese IME in dalamud.
-[Macrology](https://git.sr.ht/~jkcclemens/Macrology)|Adds a better macro system to the game. Macrology allows for macros of infinite length, adds looping, allows comments, supports pausing, allows you to run multiple macros at once, and supports fractional waits.
+[Macrology](https://git.sr.ht/~jkcclemens/Macrology)|マクロ拡張
 [MakePlacePlugin](https://github.com/jawslouis/MakePlacePlugin)|A plugin to automatically save and load housing furniture layouts for FFXIV.
 [MidiBard](https://github.com/akira0245/MidiBard)|Bard performance plugin for FFXIV. 
 [Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
 [SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|Macro queueing plugin for Dalamud.
-[The Roleplayer's Toolbox](https://git.sr.ht/~jkcclemens/RoleplayersToolbox/)|A collection of useful tools for roleplayers, such as disabling /doze snap, adding emotes to the hotbar, routing to houses, and more.
 [YesAlready](https://github.com/daemitus/YesAlready)|Auto-clicks "yes" for you in yes/no dialogs.
 
 ## Other
@@ -255,9 +246,7 @@ Name|Description
 
 Name|Description
 ---|---
-[ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining)|This repository is to serve as a place to share data mining information related to Final Fantasy XIV.
-[ffxiv-datamining-cn](https://github.com/thewakingsands/ffxiv-datamining-cn)|SaintCoinach datamining files for FFXIV CN client since version 4.45
-[ffxiv-datamining-ko](https://github.com/Ra-Workspace/ffxiv-datamining-ko)|This repository is to serve as a place to share data mining information related to Final Fantasy XIV Korea.
+[ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining)|serve as a place to share data mining information related to Final Fantasy XIV
 [FFXIVOpcodes](https://github.com/karashiiro/FFXIVOpcodes)|Mostly up-to-date repository of network opcodes for all 3 game regions.
 [lodestone-css-selectors](https://github.com/xivapi/lodestone-css-selectors)|CSS selectors for The Lodestone.
 
