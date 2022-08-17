@@ -31,17 +31,17 @@ Name|Description
 [Eorzea Collection](https://ffxiv.eorzeacollection.com/)|Share your glamours and browse through an extensive collection of looks for your Final Fantasy XIV character.
 [eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|Comprehensive information website for FFXIV.
-[exdreams Crafting Simulator](https://ffxiv.rs.exdreams.net/crafter/)|Craft rotation planner.
-[exdreams Equipment Simulator](https://ffxiv.es.exdreams.net/)|Equipment simulator.
-[exdreams Gatherer Timer](https://ffxiv.gt.exdreams.net/)|Gatherer timers and alarms.
-[exdreams Meal List](https://ffxiv.es.exdreams.net/meal_list.html)|Meal list.
-[exdreams Operation Room](https://ffxiv.phone.exdreams.net/)|Voice chat rooms.
-[exdreams Recipe Search](https://ffxiv.rs.exdreams.net/)|Recipe list and search.
-[exdreams Score Master](https://ffxiv.sc.exdreams.net/)|Perform practice for game tracks.
-[exdreams Skill Simulator](https://ffxiv.ss.exdreams.net/)|Skill simulator.
-[exdreams Spread Editor](https://ffxiv.ap.exdreams.net/spreading/)|(JP) Raid macro editor.
-[exdreams TODO](https://ffxiv.ap.exdreams.net/todo/)|(JP) Daily/Weekly activity lists.
-[exdreams Weather List](https://ffxiv.wl.exdreams.net/)|Weather list.
+[俺TOOLS クラフトシュミレータ](https://ffxiv.rs.exdreams.net/crafter/)|Craft rotation planner.
+[俺TOOLS 装備シュミレータ](https://ffxiv.es.exdreams.net/)|Equipment simulator.
+[俺TOOLS ギャザラータイマー](https://ffxiv.gt.exdreams.net/)|Gatherer timers and alarms.
+[俺TOOLS 食事リスト](https://ffxiv.es.exdreams.net/meal_list.html)|Meal list.
+[俺TOOLS 作戦室](https://ffxiv.phone.exdreams.net/)|Voice chat rooms.
+[俺TOOLS レシピ検索](https://ffxiv.rs.exdreams.net/)|Recipe list and search.
+[俺TOOLS スコアマスター](https://ffxiv.sc.exdreams.net/)|Perform practice for game tracks.
+[俺TOOLS スキルシミュレータ](https://ffxiv.ss.exdreams.net/)|Skill simulator.
+[俺TOOLS 散開図エディタ](https://ffxiv.ap.exdreams.net/spreading/)|(JP) Raid macro editor.
+[俺TOOLS TODOリスト](https://ffxiv.ap.exdreams.net/todo/)|(JP) Daily/Weekly activity lists.
+[俺TOOLS お天気リスト](https://ffxiv.wl.exdreams.net/)|Weather list.
 [Faloop](https://faloop.app/)|A Final Fantasy XIV hunt toolkit.
 [FF Logs](https://www.fflogs.com/)|Combat analysis website.
 [FFXIV Cactpot Solver](https://super-aardvark.github.io/yuryu/)|FFXIV Cactpot Solver.
