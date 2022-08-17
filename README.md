@@ -38,7 +38,6 @@ Name|Description
 [FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor.
 [Is FFXIV Up](https://is.xivup.com/)|FFXIV server status monitor.
 [XIVStatus](https://xivstatus.com/)|FFXIV server status monitor.
-[XIV Plugins](https://xivplugins.com/)|dalamudプラグイン一覧
 [Name Generator](https://ffxiv.pf-n.co/name-generator)|FFXIV random name generator for all the races.
 [Characa](https://characa.kkimu.dev/)|Character card generator.
 
@@ -50,6 +49,7 @@ Name|Description
 [俺TOOLS 作戦室](https://ffxiv.phone.exdreams.net/)|Voice chat rooms.
 [俺TOOLS 散開マクロエディタ](https://ffxiv.ap.exdreams.net/spreading/)|(JP) Raid macro editor.
 [俺TOOLS スキルシミュレータ](https://ffxiv.ss.exdreams.net/)|Skill simulator.
+[DoW/M Rotations](http://ffxivrotations.com/)|スキル回しの画像生成
 [Partner Calculator](http://partnercalc.herokuapp.com/)|クロポジパートナーチェック
 [Toolbox Gaming Space Strat Maker](https://ff14.toolboxgaming.space/)|Strat maker for FFXIV.
 [Toolbox Gaming Space Timeline Planner](https://ff14.toolboxgaming.space/timeline/)|Timeline planner for FFXIV.
@@ -226,6 +226,7 @@ Name|Description
 
 Name|Description
 ---|---
+[XIV Plugins](https://xivplugins.com/)|dalamudプラグイン一覧
 [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
 [FFLogsLookupPlugin](https://github.com/maributt/FFLogsLookupPlugin)|A Dalamud plugin to display an inspected character's parses directly in the inspect window.
 [FFLogsViewer](https://github.com/Aireil/FFLogsViewer)|Small plugin to view FF Logs ranking percentiles in-game.
