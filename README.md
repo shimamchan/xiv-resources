@@ -205,7 +205,6 @@ Be aware that Dalamud plugins that are not on the official repository may be abs
 Name|Description
 ---|---
 [BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
-[Cammy](https://github.com/UnknownX7/Cammy)|A simple camera editor to change various game defaults such as zoom and fov.
 [DalamudPython](https://git.sr.ht/~jkcclemens/DalamudPython)|Allows you to use Dalamud via Python in the chat box. Supports one-liners, printing results to chat, or making full scripts over multiple commands.
 [FFLogsLookupPlugin](https://github.com/maributt/FFLogsLookupPlugin)|A Dalamud plugin to display an inspected character's parses directly in the inspect window.
 [FFLogsViewer](https://github.com/Aireil/FFLogsViewer)|Small plugin to view FF Logs ranking percentiles in-game.
@@ -221,7 +220,6 @@ Name|Description
 [Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
 [SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|Macro queueing plugin for Dalamud.
 [The Roleplayer's Toolbox](https://git.sr.ht/~jkcclemens/RoleplayersToolbox/)|A collection of useful tools for roleplayers, such as disabling /doze snap, adding emotes to the hotbar, routing to houses, and more.
-[Weatherman](https://github.com/Eternita-S/Weatherman)|Weatherman allows you to take precise control over weather and time flow in FFXIV.
 [YesAlready](https://github.com/daemitus/YesAlready)|Auto-clicks "yes" for you in yes/no dialogs.
 
 ## Other Tools
