@@ -42,7 +42,7 @@ Name|Description
 [Name Generator](https://ffxiv.pf-n.co/name-generator)|FFXIV random name generator for all the races.
 [Characa](https://characa.kkimu.dev/)|Character card generator.
 
-## Web App_戦闘系
+## Web App_バトル
 
 
 Name|Description
@@ -50,13 +50,14 @@ Name|Description
 [俺TOOLS 作戦室](https://ffxiv.phone.exdreams.net/)|Voice chat rooms.
 [俺TOOLS 散開マクロエディタ](https://ffxiv.ap.exdreams.net/spreading/)|(JP) Raid macro editor.
 [俺TOOLS スキルシミュレータ](https://ffxiv.ss.exdreams.net/)|Skill simulator.
+[Partner Calculator](http://partnercalc.herokuapp.com/)|クロポジパートナーチェック
 [Toolbox Gaming Space Strat Maker](https://ff14.toolboxgaming.space/)|Strat maker for FFXIV.
 [Toolbox Gaming Space Timeline Planner](https://ff14.toolboxgaming.space/timeline/)|Timeline planner for FFXIV.
 [FF Logs](https://www.fflogs.com/)|Combat analysis website.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers.
 [xivsim](https://www.xivsim.com/)|FFXIV Raid Simulator.
 
-## Web App_装備系
+## Web App_装備
 
 
 Name|Description
@@ -65,7 +66,7 @@ Name|Description
 [Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|Gear planner and toolkit for FFXIV.
 [俺TOOLS 装備シュミレータ](https://ffxiv.es.exdreams.net/)|Equipment simulator.
 
-## Web App_ギャザクラ、アチーブ、コレクター系
+## Web App_ギャザクラ、アチーブ、コレクター
 
 
 Name|Description
@@ -82,7 +83,7 @@ Name|Description
 [Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
 [xivLeve](https://xivleve.org/)|Every hour new easy FFXIV leves! The easiest to buy items from the market board to maximize profit doing levequests.
 
-## Web App_ゴールドソーサー、ミニゲーム系
+## Web App_ゴールドソーサー、ミニゲーム
 
 
 Name|Description
@@ -94,7 +95,7 @@ Name|Description
 [Wondrous Tails](https://ffxiv.pf-n.co/wondrous-tails)|クロ手帳
 [High or Low](https://ffxiv.pf-n.co/high-or-low)|Calculator for the guessing game "High or Low" played against Tista-Bie in Eulmore.
 
-## Web App_特殊ダンジョン系
+## Web App_特殊ダンジョン
 
 
 Name|Description
@@ -150,7 +151,7 @@ Name|Description
 [xivnet](https://github.com/ff14wed/xivnet)|A Golang parser for incoming or outgoing unencrypted FFXIV network traffic.
 [zanarkand](https://github.com/ayyaruq/zanarkand)|Network capture library for realtime FFXIV Frame and FFXIV Message reading from a TCP/IP stream. (Golang)
 
-## Desktop Applications
+## Desktop App
 
 
 Name|Description
@@ -184,7 +185,7 @@ Name|Description
 [Godbert](https://github.com/xivapi/SaintCoinach)|Godbert is a simple application to display game data and 3D models from Final Fantasy XIV.
 [Sapphire](https://github.com/SapphireServer/Sapphire)|A Final Fantasy XIV 4.0+ Server Emulator written in C++.
 
-## ACT Plugins
+## ACT
 
 
 Name|Description
@@ -203,7 +204,7 @@ Name|Description
 [Triggernometry](https://github.com/paissaheavyindustries/Triggernometry)|Triggernometry is a plugin for Advanced Combat Tracker, intended to extend its built-in trigger system with a variety of different actions and configuration options.
 [universalis_act_plugin](https://github.com/goaaats/universalis_act_plugin)|ACT plugin to upload market board data to https://universalis.app
 
-## ACT Plugins: Overlays
+## ACT: Overlays
 
 
 Name|Description
@@ -221,7 +222,7 @@ Name|Description
 [kagerou](https://github.com/hibiyasleep/kagerou)|ACT-FF14 OverlayPlugin Skin - Modern, easily configurable, always up-to-date.
 [klondike](https://github.com/kalilistic/klondike)|FFXIV ACT Overlay.
 
-## Off-the-books Dalamud Plugins
+## Dalamud
 
 
 The website [XIV Plugins](https://xivplugins.com) has a list of (probably) every single Dalamud plugin and repository on GitHub and a few from other sources. This list is automatically generated so includes plugins and repositories whether or not they are completed or functional. Akurosia has a [more curated list](https://github.com/Akurosia/MyCustomDalamudPluginRepoCollection) of plugin repositories. The list below contains plugins that are known to be completed.
@@ -249,7 +250,7 @@ Name|Description
 [The Roleplayer's Toolbox](https://git.sr.ht/~jkcclemens/RoleplayersToolbox/)|A collection of useful tools for roleplayers, such as disabling /doze snap, adding emotes to the hotbar, routing to houses, and more.
 [YesAlready](https://github.com/daemitus/YesAlready)|Auto-clicks "yes" for you in yes/no dialogs.
 
-## Other Tools
+## Other
 
 
 Name|Description
@@ -269,3 +270,4 @@ Name|Description
 [Limit Break](https://docs.google.com/document/d/1JK9BKbW49Kye5V60jD16rvzmliurLE1Ngq6Z7-WubKI/edit)|リミットブレイク解説
 [6.0 Substat Tiers](https://docs.google.com/spreadsheets/u/1/d/1oCfvBE1VpkWCG96LAkqLNn9cCR1FIQM_iUNS056k7Ik/edit#gid=0)|6.0_サブステ閾値表
 [Universal GCD Calculator for 6.0](https://docs.google.com/spreadsheets/u/1/d/1Dl1qsBt11Wk6QCSSImpq_Hkxy1EHHdaEDwSrfPwjC9s/edit#gid=0)|6.0_GCDシミュレータ
+[DNC Gear Calculator - Endwalker (6.11) - v1.10](https://docs.google.com/spreadsheets/d/1C13bsFedHyR0l6YJhqahfjOlQpTPCpCRL9TdItD-Jk4/edit)|踊り子シミュレータ
