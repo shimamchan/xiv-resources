@@ -38,7 +38,7 @@ Name|Description
 [FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor.
 [Is FFXIV Up](https://is.xivup.com/)|FFXIV server status monitor.
 [XIVStatus](https://xivstatus.com/)|FFXIV server status monitor.
-[XIV Plugins](https://xivplugins.com/)|Lists of most (all?) Dalamud and ACT plugins.
+[XIV Plugins](https://xivplugins.com/)|dalamudプラグイン一覧
 [Name Generator](https://ffxiv.pf-n.co/name-generator)|FFXIV random name generator for all the races.
 [Characa](https://characa.kkimu.dev/)|Character card generator.
 
@@ -258,5 +258,6 @@ Name|Description
 [How to be a Math Wizard - Third Edition](https://docs.google.com/document/d/1OpfKYmf31FpES3IHOrl3H8phU4Np8FChH4B4lP1ZE08/edit)|ダメージ計算
 [Limit Break](https://docs.google.com/document/d/1JK9BKbW49Kye5V60jD16rvzmliurLE1Ngq6Z7-WubKI/edit)|リミットブレイク解説
 [6.0 Substat Tiers](https://docs.google.com/spreadsheets/u/1/d/1oCfvBE1VpkWCG96LAkqLNn9cCR1FIQM_iUNS056k7Ik/edit#gid=0)|6.0_サブステ閾値表
+[軽減表ジェネレーター]https://docs.google.com/spreadsheets/d/1By_2GPoSv3OFb4CkkuFjU5t6BQwNHVfNEii9uXEXG2M/edit#gid=934753148)|軽減表自動生成
 [Universal GCD Calculator for 6.0](https://docs.google.com/spreadsheets/u/1/d/1Dl1qsBt11Wk6QCSSImpq_Hkxy1EHHdaEDwSrfPwjC9s/edit#gid=0)|6.0_GCDシミュレータ
 [DNC Gear Calculator - Endwalker (6.11) - v1.10](https://docs.google.com/spreadsheets/d/1C13bsFedHyR0l6YJhqahfjOlQpTPCpCRL9TdItD-Jk4/edit)|踊り子シミュレータ
