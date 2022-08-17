@@ -14,10 +14,9 @@ Name|Description
 [Teamcraft Guides](https://guides.ffxivteamcraft.com/)|Crafting and Gathering guides for everyone.
 [XIV Dev Wiki](https://xiv.dev/)|The deep dark darkness wiki.
 
-## Web Applications
+## Web Applications_データベース全般
 
 
-### データベース全般
 Name|Description
 ---|---
 [A Realm Remapped](https://arealmremapped.com/)|Collection of all maps and locations in FINAL FANTASY XIV including FATEs, Treasure maps, Vistas, Aether Currents and more.
@@ -51,7 +50,7 @@ Name|Description
 [XIV Plugins](https://xivplugins.com/)|Lists of most (all?) Dalamud and ACT plugins.
 [XIV ToDo](https://xivtodo.com/)|Completion trackers, dashboards, and daily & weekly activities.
 
-### 戦闘系
+## Web Applications_戦闘系
 
 
 Name|Description
@@ -62,7 +61,7 @@ Name|Description
 [FF Logs](https://www.fflogs.com/)|Combat analysis website.
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers.
 
-### ギャザクラ系
+## Web Applications_ギャザクラ系
 
 
 Name|Description
@@ -75,7 +74,7 @@ Name|Description
 [Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
 [xivLeve](https://xivleve.org/)|Every hour new easy FFXIV leves! The easiest to buy items from the market board to maximize profit doing levequests.
 
-### 装備系
+## Web Applications_装備系
 
 
 Name|Description
@@ -83,7 +82,7 @@ Name|Description
 [Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|Gear planner and toolkit for FFXIV.
 [俺TOOLS 装備シュミレータ](https://ffxiv.es.exdreams.net/)|Equipment simulator.
 
-### ゴールドソーサー、ミニゲーム系
+## Web Applications_ゴールドソーサー、ミニゲーム系
 
 
 Name|Description
@@ -94,7 +93,7 @@ Name|Description
 [Mini Cactpot](https://ffxiv.pf-n.co/mini-cactpot)|Calculator for the Mini Cactpot lottery.
 [Wondrous Tails](https://ffxiv.pf-n.co/wondrous-tails)|クロ手帳
 
-### 特殊ダンジョン系
+## Web Applications_特殊ダンジョン系
 
 
 Name|Description
@@ -104,7 +103,7 @@ Name|Description
 [Lost Actions](https://ffxiv.kmiwl.de/bozja/)|Lost actions list and tracker for Bozja and Zadnor.
 [DRS Chess](https://drschess.github.io/DrsChess/)|Queen's Guard chess mechanic practice website.
 
-### 天気
+## Web Applications_天気
 
 
 Name|Description
