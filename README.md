@@ -17,43 +17,22 @@ Name|Description
 ## Web Applications
 
 
+### データベース全般
 Name|Description
 ---|---
 [A Realm Remapped](https://arealmremapped.com/)|Collection of all maps and locations in FINAL FANTASY XIV including FATEs, Treasure maps, Vistas, Aether Currents and more.
-[Another Triple Triad Tracker](https://triad.raelys.com/)|Another website for tracking your Final Fantasy XIV Triple Triad card collection.
-[Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|Gear planner and toolkit for FFXIV.
-[Bozjan Southern Front](https://ffxiv.pf-n.co/bozja)|Interactive map for the Bozjan Southern Front.
-[Cactpot.xyz](http://cactpot.xyz/)|Mobile friendly Final Fantasy XIV Mini-Cactpot perfect solver. Maximize your cactpot winnings.
-[Cat became hungry](https://en.ff14angler.com/index.php?)|FINAL FANTASY XIV Fishing Database.
 [Characa](https://characa.kkimu.dev/)|Character card generator.
-[Chocobo Color](https://ffxiv.pf-n.co/chocobo-color)|Calculator for changing your chocobo's color.
-[DRS Chess](https://drschess.github.io/DrsChess/)|Queen's Guard chess mechanic practice website.
 [Eorzea Collection](https://ffxiv.eorzeacollection.com/)|Share your glamours and browse through an extensive collection of looks for your Final Fantasy XIV character.
-[eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
 [Eriones](https://en.eriones.com/)|Comprehensive information website for FFXIV.
-[俺TOOLS クラフトシュミレータ](https://ffxiv.rs.exdreams.net/crafter/)|Craft rotation planner.
-[俺TOOLS 装備シュミレータ](https://ffxiv.es.exdreams.net/)|Equipment simulator.
-[俺TOOLS ギャザラータイマー](https://ffxiv.gt.exdreams.net/)|Gatherer timers and alarms.
 [俺TOOLS 食事リスト](https://ffxiv.es.exdreams.net/meal_list.html)|Meal list.
-[俺TOOLS 作戦室](https://ffxiv.phone.exdreams.net/)|Voice chat rooms.
-[俺TOOLS レシピ検索](https://ffxiv.rs.exdreams.net/)|Recipe list and search.
 [俺TOOLS スコアマスター](https://ffxiv.sc.exdreams.net/)|Perform practice for game tracks.
-[俺TOOLS スキルシミュレータ](https://ffxiv.ss.exdreams.net/)|Skill simulator.
-[俺TOOLS 散開図エディタ](https://ffxiv.ap.exdreams.net/spreading/)|(JP) Raid macro editor.
 [俺TOOLS TODOリスト](https://ffxiv.ap.exdreams.net/todo/)|(JP) Daily/Weekly activity lists.
-[俺TOOLS お天気リスト](https://ffxiv.wl.exdreams.net/)|Weather list.
 [Faloop](https://faloop.app/)|A Final Fantasy XIV hunt toolkit.
-[FF Logs](https://www.fflogs.com/)|Combat analysis website.
-[FFXIV Cactpot Solver](https://super-aardvark.github.io/yuryu/)|FFXIV Cactpot Solver.
 [FFXIV Collect](https://ffxivcollect.com/)|Another website for tracking your Final Fantasy XIV collections.
-[FFXIV Eureka](https://ffxiv-eureka.com/)|Eureka tracker.
-[ffxiv-gearing](https://asvel.github.io/ffxiv-gearing/)|(CN) Webapp for building and sharing Final Fantasy XIV gearsets.
 [FFXIV MarketBoard](https://www.ffxivmb.com)|Fansite for crowdsourcing MarketBoard data.
 [FFXIV RealTime Server Status](https://fx.fo/)|FFXIV server status monitor.
 [FFXIV Squadron](http://ffxivsquadron.com/)|A webapp to solve squadron stats for a given mission.
-[FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily.
 [FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|XIV Bars is a simple app for previewing the Final Fantasy XIV W Cross HotBar (WXHB).
-[FFXIV Weather Lookup](https://asvel.github.io/ffxiv-weather/)|Weather forecast and lookup for Final Fantasy XIV.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources.
 [Heavenswhere](http://heavenswhere.com/)|デイリーモブ、地図、風脈等の地図情報
 [High or Low](https://ffxiv.pf-n.co/high-or-low)|Calculator for the guessing game "High or Low" played against Tista-Bie in Eulmore.
@@ -61,23 +40,79 @@ Name|Description
 [Lalachievements](https://www.lalachievements.com)|Keep track of your progress collecting everything that can be collected in FFXIV.
 [Lodestone News](http://na.lodestonenews.com/)|Automatic Lodestone news updates for your Discord server.
 [Lodestone When](https://karashiiro.github.io/lodestone-when/)|Estimate when a FFXIV character was created with just its Lodestone ID.
-[Lost Actions](https://ffxiv.kmiwl.de/bozja/)|Lost actions list and tracker for Bozja and Zadnor.
-[Mini Cactpot](https://ffxiv.pf-n.co/mini-cactpot)|Calculator for the Mini Cactpot lottery.
 [Name Generator](https://ffxiv.pf-n.co/name-generator)|FFXIV random name generator for all the races.
-[Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
-[Skywatcher](https://ffxiv.pf-n.co/skywatcher)|Schedule for weather in Eorzea and forecaster for upcoming weather patterns.
 [Toolbox Gaming Space Strat Maker](https://ff14.toolboxgaming.space/)|Strat maker for FFXIV.
 [Toolbox Gaming Space Timeline Planner](https://ff14.toolboxgaming.space/timeline/)|Timeline planner for FFXIV.
 [Universalis](https://universalis.app/)|Crowdsourced market board website and API.
-[Wondrous Tails](https://ffxiv.pf-n.co/wondrous-tails)|Calculator for the Wondrous Tails mini-game.
-[xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers.
 [XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|An interface for browsing the XIVAPI.
-[xivLeve](https://xivleve.org/)|Every hour new easy FFXIV leves! The easiest to buy items from the market board to maximize profit doing levequests.
 [XIV Mod Archive](https://www.xivmodarchive.com/)|Mod archive for FFXIV.
 [XIVStatus](https://xivstatus.com/)|FFXIV server status monitor.
 [xivsim](https://www.xivsim.com/)|FFXIV Raid Simulator.
 [XIV Plugins](https://xivplugins.com/)|Lists of most (all?) Dalamud and ACT plugins.
 [XIV ToDo](https://xivtodo.com/)|Completion trackers, dashboards, and daily & weekly activities.
+
+### 戦闘系
+
+
+Name|Description
+---|---
+[俺TOOLS 作戦室](https://ffxiv.phone.exdreams.net/)|Voice chat rooms.
+[俺TOOLS 散開マクロエディタ](https://ffxiv.ap.exdreams.net/spreading/)|(JP) Raid macro editor.
+[俺TOOLS スキルシミュレータ](https://ffxiv.ss.exdreams.net/)|Skill simulator.
+[FF Logs](https://www.fflogs.com/)|Combat analysis website.
+[xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers.
+
+### ギャザクラ系
+
+
+Name|Description
+---|---
+[俺TOOLS クラフトシュミレータ](https://ffxiv.rs.exdreams.net/crafter/)|Craft rotation planner.
+[俺TOOLS ギャザラータイマー](https://ffxiv.gt.exdreams.net/)|Gatherer timers and alarms.
+[俺TOOLS レシピ検索](https://ffxiv.rs.exdreams.net/)|Recipe list and search.
+[FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily.
+[Cat became hungry](https://en.ff14angler.com/index.php?)|釣りデータベース
+[Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
+[xivLeve](https://xivleve.org/)|Every hour new easy FFXIV leves! The easiest to buy items from the market board to maximize profit doing levequests.
+
+### 装備系
+
+
+Name|Description
+---|---
+[Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|Gear planner and toolkit for FFXIV.
+[俺TOOLS 装備シュミレータ](https://ffxiv.es.exdreams.net/)|Equipment simulator.
+
+### ゴールドソーサー、ミニゲーム系
+
+
+Name|Description
+---|---
+[Another Triple Triad Tracker](https://triad.raelys.com/)|Another website for tracking your Final Fantasy XIV Triple Triad card collection.
+[Cactpot.xyz](http://cactpot.xyz/)|Mobile friendly Final Fantasy XIV Mini-Cactpot perfect solver. Maximize your cactpot winnings.
+[FFXIV Cactpot Solver](https://super-aardvark.github.io/yuryu/)|FFXIV Cactpot Solver.
+[Mini Cactpot](https://ffxiv.pf-n.co/mini-cactpot)|Calculator for the Mini Cactpot lottery.
+[Wondrous Tails](https://ffxiv.pf-n.co/wondrous-tails)|クロ手帳
+
+### 特殊ダンジョン系
+
+
+Name|Description
+---|---
+[FFXIV Eureka](https://ffxiv-eureka.com/)|Eureka tracker.
+[Bozjan Southern Front](https://ffxiv.pf-n.co/bozja)|Interactive map for the Bozjan Southern Front.
+[Lost Actions](https://ffxiv.kmiwl.de/bozja/)|Lost actions list and tracker for Bozja and Zadnor.
+[DRS Chess](https://drschess.github.io/DrsChess/)|Queen's Guard chess mechanic practice website.
+
+### 天気
+
+
+Name|Description
+---|---
+[俺TOOLS お天気リスト](https://ffxiv.wl.exdreams.net/)|Weather list.
+[eorzea-weather](https://eorzea-weather.info/)|Weather forecast for Eorzea.
+[FFXIV Weather Lookup](https://asvel.github.io/ffxiv-weather/)|Weather forecast and lookup for Final Fantasy XIV.
+[Skywatcher](https://ffxiv.pf-n.co/skywatcher)|Schedule for weather in Eorzea and forecaster for upcoming weather patterns.
 
 ## Web APIs
 
