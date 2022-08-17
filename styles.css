@@ -1,31 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
 
 body {
-  background-color: #333;
-  color: #eee;
+  background-color: #fff;
+  color: #333;
   font-family: 'Lato', sans-serif;
 }
 
 a {
-  color: #eee;
+  color: #59f;
   font-weight: bold;
 }
 
 a:hover {
-  color: #0cf;
+  color: #9cf;
   transition: 200ms ease-in-out;
 }
 
 hr {
-  border-color: #eee;
+  border-color: #333;
 }
 
 .card {
   margin-top: 1rem;
   margin-bottom: 1rem;
-  background-color: #333;
+  background-color: #ccc;
 }
 
 .card-body {
-  background-color: rgba(0, 0, 0, 0.2);
+  background-color: #ccc;
 }
