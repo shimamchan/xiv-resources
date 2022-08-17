@@ -55,7 +55,7 @@ Name|Description
 [FFXIV WXHB Cross Hotbar Simulator](https://xivbars.bejezus.com/)|XIV Bars is a simple app for previewing the Final Fantasy XIV W Cross HotBar (WXHB).
 [FFXIV Weather Lookup](https://asvel.github.io/ffxiv-weather/)|Weather forecast and lookup for Final Fantasy XIV.
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources.
-[Heavenswhere](http://heavenswhere.com/)|Interactive maps for Final Fantasy XIV: Shadowbringers, Stormblood and Heavensward.
+[Heavenswhere](http://heavenswhere.com/)|デイリーモブ、地図、風脈等の地図情報
 [High or Low](https://ffxiv.pf-n.co/high-or-low)|Calculator for the guessing game "High or Low" played against Tista-Bie in Eulmore.
 [Is FFXIV Up](https://is.xivup.com/)|FFXIV server status monitor.
 [Lalachievements](https://www.lalachievements.com)|Keep track of your progress collecting everything that can be collected in FFXIV.
@@ -92,7 +92,6 @@ Name|Description
 [Kal's FFXIV API](https://app.swaggerhub.com/apis-docs/kalilistic/ffxiv-api/)|REST API for lodestone ids and more.
 [Lodestone News](https://documenter.getpostman.com/view/1779678/TzXzDHVk)|REST API for Lodestone news.
 [Thaliak](https://thaliak.xiv.dev/)|Game version/patch tracking site offering a GraphQL API.
-[Universalis](https://universalis.app/)|Crowdsourced market board website and API.
 [XIVAPI](https://xivapi.com/)|Game data API.
 [XIV-Character-Cards](https://github.com/ArcaneDisgea/XIV-Character-Cards)|Character card generator.
 [XIV Plugins API](https://app.swaggerhub.com/apis/kalilistic/xiv-plugins-api)|REST API for dalamud and ACT plugins.
@@ -156,7 +155,6 @@ Name|Description
 Name|Description
 ---|---
 [FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker.
-[FFXIV_ACT_Plugin_CN](https://github.com/TundraWork/FFXIV_ACT_Plugin_CN)|Modified version of FFXIV_ACT_Plugin to adapt Chinese version FFXIV client.
 
 ## ACT Plugins: Extensions
 
