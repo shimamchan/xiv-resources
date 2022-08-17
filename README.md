@@ -14,7 +14,7 @@ Name|Description
 [Teamcraft Guides](https://guides.ffxivteamcraft.com/)|Crafting and Gathering guides for everyone.
 [XIV Dev Wiki](https://xiv.dev/)|The deep dark darkness wiki.
 
-## Web Applications_データベース全般
+## Web App_全般
 
 
 Name|Description
@@ -42,7 +42,7 @@ Name|Description
 [Name Generator](https://ffxiv.pf-n.co/name-generator)|FFXIV random name generator for all the races.
 [Characa](https://characa.kkimu.dev/)|Character card generator.
 
-## Web Applications_戦闘系
+## Web App_戦闘系
 
 
 Name|Description
@@ -56,7 +56,7 @@ Name|Description
 [xivanalysis](https://xivanalysis.com/)|Automated performance analysis and suggestion platform for Final Fantasy XIV: Shadowbringers.
 [xivsim](https://www.xivsim.com/)|FFXIV Raid Simulator.
 
-## Web Applications_装備系
+## Web App_装備系
 
 
 Name|Description
@@ -65,7 +65,7 @@ Name|Description
 [Ariyala's Final Fantasy XIV Toolkit](https://ffxiv.ariyala.com/)|Gear planner and toolkit for FFXIV.
 [俺TOOLS 装備シュミレータ](https://ffxiv.es.exdreams.net/)|Equipment simulator.
 
-## Web Applications_ギャザクラ、アチーブ、コレクター系
+## Web App_ギャザクラ、アチーブ、コレクター系
 
 
 Name|Description
@@ -82,7 +82,7 @@ Name|Description
 [Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|Ocean fishing helper website.
 [xivLeve](https://xivleve.org/)|Every hour new easy FFXIV leves! The easiest to buy items from the market board to maximize profit doing levequests.
 
-## Web Applications_ゴールドソーサー、ミニゲーム系
+## Web App_ゴールドソーサー、ミニゲーム系
 
 
 Name|Description
@@ -94,7 +94,7 @@ Name|Description
 [Wondrous Tails](https://ffxiv.pf-n.co/wondrous-tails)|クロ手帳
 [High or Low](https://ffxiv.pf-n.co/high-or-low)|Calculator for the guessing game "High or Low" played against Tista-Bie in Eulmore.
 
-## Web Applications_特殊ダンジョン系
+## Web App_特殊ダンジョン系
 
 
 Name|Description
@@ -104,7 +104,7 @@ Name|Description
 [Lost Actions](https://ffxiv.kmiwl.de/bozja/)|Lost actions list and tracker for Bozja and Zadnor.
 [DRS Chess](https://drschess.github.io/DrsChess/)|Queen's Guard chess mechanic practice website.
 
-## Web Applications_天気
+## Web App_天気
 
 
 Name|Description
@@ -184,18 +184,12 @@ Name|Description
 [Godbert](https://github.com/xivapi/SaintCoinach)|Godbert is a simple application to display game data and 3D models from Final Fantasy XIV.
 [Sapphire](https://github.com/SapphireServer/Sapphire)|A Final Fantasy XIV 4.0+ Server Emulator written in C++.
 
-## ACT Plugins: Base
+## ACT Plugins
 
 
 Name|Description
 ---|---
 [FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker.
-
-## ACT Plugins: Extensions
-
-
-Name|Description
----|---
 [ACT-Discord-Triggers](https://github.com/Makar8000/ACT-Discord-Triggers)|An ACT plugin for routing audio to discord.
 [ACT.DFAssist](https://github.com/purutu/ACT.DFAssist)|DFAssist fork for ACT3.
 [ACT.FFXIVPing](https://github.com/Noisyfox/ACT.FFXIVPing)|A simple ACT plugin displays network ping in a small overlay for FFXIV.
@@ -265,3 +259,13 @@ Name|Description
 [ffxiv-datamining-ko](https://github.com/Ra-Workspace/ffxiv-datamining-ko)|This repository is to serve as a place to share data mining information related to Final Fantasy XIV Korea.
 [FFXIVOpcodes](https://github.com/karashiiro/FFXIVOpcodes)|Mostly up-to-date repository of network opcodes for all 3 game regions.
 [lodestone-css-selectors](https://github.com/xivapi/lodestone-css-selectors)|CSS selectors for The Lodestone.
+
+## Documents
+
+
+Name|Description
+---|---
+[How to be a Math Wizard - Third Edition](https://docs.google.com/document/d/1OpfKYmf31FpES3IHOrl3H8phU4Np8FChH4B4lP1ZE08/edit)|ダメージ計算
+[Limit Break](https://docs.google.com/document/d/1JK9BKbW49Kye5V60jD16rvzmliurLE1Ngq6Z7-WubKI/edit)|リミットブレイク解説
+[6.0 Substat Tiers](https://docs.google.com/spreadsheets/u/1/d/1oCfvBE1VpkWCG96LAkqLNn9cCR1FIQM_iUNS056k7Ik/edit#gid=0)|6.0_サブステ閾値表
+[Universal GCD Calculator for 6.0](https://docs.google.com/spreadsheets/u/1/d/1Dl1qsBt11Wk6QCSSImpq_Hkxy1EHHdaEDwSrfPwjC9s/edit#gid=0)|6.0_GCDシミュレータ
