@@ -40,7 +40,7 @@
         </div>
         <ul>
           <li v-for="resource in category.resources">
-            <b><a :href="resource.url">{{ resource.name }}</a>:</b> {{ resource.description }}
+            <b><a :href="resource.url" target=”_blank” rel=”noopener noreferrer”>{{ resource.name }}</a>:</b> {{ resource.description }}
           </li>
         </ul>
       </div>
