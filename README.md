@@ -247,3 +247,5 @@ Name|Description
 [How to be a Math Wizard - Third Edition](https://docs.google.com/document/d/1OpfKYmf31FpES3IHOrl3H8phU4Np8FChH4B4lP1ZE08/edit)|ダメージ計算
 [Limit Break](https://docs.google.com/document/d/1JK9BKbW49Kye5V60jD16rvzmliurLE1Ngq6Z7-WubKI/edit)|リミットブレイク解説
 [6.0 Substat Tiers](https://docs.google.com/spreadsheets/u/1/d/1oCfvBE1VpkWCG96LAkqLNn9cCR1FIQM_iUNS056k7Ik/edit#gid=0)|6.0_サブステ閾値表
+[5.X Thunder Calculations](https://docs.google.com/document/d/1RIJeJdKWW8wPxmUf9imsWwzNsDhLVps_Np3uLhG1BVM/edit)|5.X_サンダガPPS
+
