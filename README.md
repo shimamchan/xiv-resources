@@ -110,18 +110,17 @@ Name|Description
 
 Name|Description
 ---|---
+[XIVAPI](https://xivapi.com/)|ゲームデータAPI
+[XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|APIブラウザ
+[XIV Plugins API](https://app.swaggerhub.com/apis/kalilistic/xiv-plugins-api)|REST API for dalamud and ACT plugins.
 [Another Triple Triad Tracker](https://documenter.getpostman.com/view/1779678/TzXzDHRR)|REST API for Triple Triad.
-[CafeMaker](https://github.com/thewakingsands/cafemaker)|A XIVAPI fork optimized for CN client data and Chinese players.
 [FFXIV Collect](https://documenter.getpostman.com/view/1779678/TzXzDHM1)|REST API for collections (e.g. achievements, mounts, minions).
 [Garland Tools](https://www.garlandtools.org/)|FFXIV tools & resources.
 [gcf-lodestone](https://github.com/ffxiv-teamcraft/gcf-lodestone)|A set of example lodestone parsing functions ready to be deployed to GCF
 [Kal's FFXIV API](https://app.swaggerhub.com/apis-docs/kalilistic/ffxiv-api/)|REST API for lodestone ids and more.
 [Lodestone News](https://documenter.getpostman.com/view/1779678/TzXzDHVk)|REST API for Lodestone news.
 [Thaliak](https://thaliak.xiv.dev/)|Game version/patch tracking site offering a GraphQL API.
-[XIVAPI](https://xivapi.com/)|ゲームデータAPI
-[XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|APIブラウザ
 [XIV-Character-Cards](https://github.com/ArcaneDisgea/XIV-Character-Cards)|Character card generator.
-[XIV Plugins API](https://app.swaggerhub.com/apis/kalilistic/xiv-plugins-api)|REST API for dalamud and ACT plugins.
 
 ## Local APIs
 
@@ -130,7 +129,7 @@ Name|Description
 ---|---
 [Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV. (Golang)
 [Dalamud](https://github.com/goatcorp/Dalamud)|Plugin framework and API bundled with [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher).
-[eorzea-time](https://github.com/eorzea-weather/eorzea-time)|🕒 A clock of the Eorzea time. (JS/TS)
+[eorzea-time](https://github.com/eorzea-weather/eorzea-time)|A clock of the Eorzea time. (JS/TS)
 [eorzea-weather](https://github.com/eorzea-weather/eorzea-weather)|:partly_sunny: Weather forecast for Eorzea. (JS/TS)
 [FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications. Also offered in [Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina) and [Python](https://github.com/karashiiro/ffxivweather-py) variants.
 [garlandtools-api](https://github.com/karashiiro/garlandtools-api)|An unofficial Node wrapper for the Garland Tools API.
@@ -150,9 +149,8 @@ Name|Description
 [Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV.
 [BardMusicPlayer](https://bardmusicplayer.com/)|Bard Music Player is an automated music player for playing MIDI songs in FFXIV using the Bard's Performance mode.
 [CMTool](https://github.com/imchillin/CMTool)|Client modding tool.
-[exdreams Desktop Application](https://ffxiv.ap.exdreams.net/)|exdreams desktop application.
+[俺TOOL 棒読みちゃん](https://ffxiv.ap.exdreams.net/)|読み上げ
 [FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker.
-[FFXIV_ACT_Plugin_CN](https://github.com/TundraWork/FFXIV_ACT_Plugin_CN)|Modified version of FFXIV_ACT_Plugin to adapt Chinese version FFXIV client.
 [FFXIVAPP](https://github.com/FFXIVAPP/ffxivapp)|(No description)
 [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|A faster launcher for the game with a rich third-party plugin ecosystem.
 [FFXIV TexTools](https://github.com/TexTools/FFXIV_TexTools_UI)|An application used to modify the textures and models for the game Final Fantasy XIV.
@@ -200,7 +198,7 @@ Name|Description
 
 Name|Description
 ---|---
-[ACT_DFAPlugin](https://github.com/qitana/ACT_DFAPlugin)|FFXIV Duty Finder Assist for [ngld/OverlayPlugin](https://github.com/ngld/OverlayPlugin).
+[ACT_DFAPlugin](https://github.com/qitana/ACT_DFAPlugin)|FFXIV Duty Finder Assist
 [ACT_PingPlugin](https://github.com/qitana/ACT_PingPlugin)|The add-on shows ping status for connected server.
 [cactbot](https://github.com/quisquous/cactbot)|FFXIV JavaScript Raiding Overlay.
 [Codex](https://github.com/mkaminsky11/Codex)|Extra gauges and buff trackers for FFXIV.
