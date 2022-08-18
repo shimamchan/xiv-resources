@@ -162,18 +162,6 @@ Name|Description
 [XIVNote](https://github.com/anoyetta/XIVNote)|「14ノート」FFXIV向け付箋ツール
 [WaymarkLibrarian](https://github.com/PunishedPineapple/WaymarkLibrarian)|Tool for FFXIV to store unlimited waymark presets and swap them into and out of the game as-required.
 
-## Research Tools
-
-
-Name|Description
----|---
-[FFXIV Explorer](https://github.com/goaaats/ffxiv-explorer-fork)|Modernized fork of FFXIV Explorer with added usability features.
-[FFXIVMon Reborn](https://github.com/SapphireServer/ffxivmon)|A FFXIV Network Analysis Tool.
-[FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV.
-[FFXIV-Packet-Dissector](https://github.com/zhyupe/FFXIV-Packet-Dissector)|Wireshark plugins for dissecting FFXIV packets.
-[Godbert](https://github.com/xivapi/SaintCoinach)|Godbert is a simple application to display game data and 3D models from Final Fantasy XIV.
-[Sapphire](https://github.com/SapphireServer/Sapphire)|A Final Fantasy XIV 4.0+ Server Emulator written in C++.
-
 ## ACT
 
 
@@ -216,20 +204,31 @@ Name|Description
 Name|Description
 ---|---
 [XIV Plugins](https://xivplugins.com/)|dalamudプラグイン一覧
-[BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|A plugin for FFXIVQuickLauncher to help with manipulating housing items.
-[FFLogsLookupPlugin](https://github.com/maributt/FFLogsLookupPlugin)|A Dalamud plugin to display an inspected character's parses directly in the inspect window.
-[FFLogsViewer](https://github.com/Aireil/FFLogsViewer)|Small plugin to view FF Logs ranking percentiles in-game.
-[FPSLimiter](https://github.com/maributt/FPSLimiter)|A Dalamud plugin to manage your FPS cap with a command.
-[ffxiv-startup-commands](https://github.com/saltycog/ffxiv-startup-commands)|Perform various behaviors/commands right after logging into a character.
-[HeelsPlugin](https://github.com/LeonBlade/HeelsPlugin)|A plugin used for FFXIVQuickLauncher to offset your character height when using certain high heel mods.
-[HousingPos](https://github.com/Bluefissure/HousingPos)|A xivlauncher plugin to save/load positions of the housing furnitures.
-[IMEPlugin](https://github.com/Bluefissure/IMEPlugin)|A simple plugin that adds an overlay to support Chinese IME in dalamud.
+[FFLogsLookupPlugin](https://github.com/maributt/FFLogsLookupPlugin)|オタクスカウター
+[FFLogsViewer](https://github.com/Aireil/FFLogsViewer)|オタクスカウター
+[FPSLimiter](https://github.com/maributt/FPSLimiter)|FPSキャップ
+[ffxiv-startup-commands](https://github.com/saltycog/ffxiv-startup-commands)|コマンド作成
 [Macrology](https://git.sr.ht/~jkcclemens/Macrology)|マクロ拡張
-[MakePlacePlugin](https://github.com/jawslouis/MakePlacePlugin)|A plugin to automatically save and load housing furniture layouts for FFXIV.
-[MidiBard](https://github.com/akira0245/MidiBard)|Bard performance plugin for FFXIV. 
-[Penumbra](https://github.com/xivdev/Penumbra)|Runtime mod loader for FFXIV.
-[SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|Macro queueing plugin for Dalamud.
-[YesAlready](https://github.com/daemitus/YesAlready)|Auto-clicks "yes" for you in yes/no dialogs.
+[SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|マクロ拡張
+[MakePlacePlugin](https://github.com/jawslouis/MakePlacePlugin)|ハウジング補助_配置記憶
+[HousingPos](https://github.com/Bluefissure/HousingPos)|ハウジング補助_配置記憶
+[BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|ハウジング_浮かせ補助
+[MidiBard](https://github.com/akira0245/MidiBard)|自動演奏
+[Penumbra](https://github.com/xivdev/Penumbra)|MOD
+[HeelsPlugin](https://github.com/LeonBlade/HeelsPlugin)|MOD拡張
+[YesAlready](https://github.com/daemitus/YesAlready)|自動で「はい」選択するやつ
+
+## Research Tools
+
+
+Name|Description
+---|---
+[FFXIV Explorer](https://github.com/goaaats/ffxiv-explorer-fork)|Modernized fork of FFXIV Explorer with added usability features.
+[FFXIVMon Reborn](https://github.com/SapphireServer/ffxivmon)|A FFXIV Network Analysis Tool.
+[FFXIVOpcodeWizard](https://github.com/karashiiro/FFXIVOpcodeWizard)|An automatic opcode identification program for FFXIV.
+[FFXIV-Packet-Dissector](https://github.com/zhyupe/FFXIV-Packet-Dissector)|Wireshark plugins for dissecting FFXIV packets.
+[Godbert](https://github.com/xivapi/SaintCoinach)|Godbert is a simple application to display game data and 3D models from Final Fantasy XIV.
+[Sapphire](https://github.com/SapphireServer/Sapphire)|A Final Fantasy XIV 4.0+ Server Emulator written in C++.
 
 ## Other
 
@@ -237,7 +236,7 @@ Name|Description
 Name|Description
 ---|---
 [ffxiv-datamining](https://github.com/xivapi/ffxiv-datamining)|serve as a place to share data mining information related to Final Fantasy XIV
-[FFXIVOpcodes](https://github.com/karashiiro/FFXIVOpcodes)|Mostly up-to-date repository of network opcodes for all 3 game regions.
+[FFXIVOpcodes](https://github.com/karashiiro/FFXIVOpcodes)|オペコード
 [lodestone-css-selectors](https://github.com/xivapi/lodestone-css-selectors)|CSS selectors for The Lodestone.
 
 ## Documents
