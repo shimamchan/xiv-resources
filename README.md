@@ -34,6 +34,7 @@ Name|Description
 [FFXIV RealTime Server Status](https://fx.fo/)|サーバステータスモニタリング
 [Is FFXIV Up](https://is.xivup.com/)|サーバステータスモニタリング
 [XIVStatus](https://xivstatus.com/)|サーバステータスモニタリング
+[LS-Exposer](http://hiiragi.moo.jp/)|CWLS検索
 [Lodestone When](https://karashiiro.github.io/lodestone-when/)|キャラクタ作成日時を検索
 [Name Generator](https://ffxiv.pf-n.co/name-generator)|キャラクターネームジェネレータ
 [Characa](https://characa.kkimu.dev/)|キャラクターカードジェネレータ
