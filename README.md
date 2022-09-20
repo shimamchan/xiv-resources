@@ -116,19 +116,18 @@ Name|Description
 
 Name|Description
 ---|---
-[Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV. (Golang)
-[Dalamud](https://github.com/goatcorp/Dalamud)|Plugin framework and API bundled with [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher).
-[eorzea-time](https://github.com/eorzea-weather/eorzea-time)|A clock of the Eorzea time. (JS/TS)
-[eorzea-weather](https://github.com/eorzea-weather/eorzea-weather)|:partly_sunny: Weather forecast for Eorzea. (JS/TS)
-[FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications. Also offered in [Lumina](https://github.com/karashiiro/FFXIVWeather.Lumina) and [Python](https://github.com/karashiiro/ffxivweather-py) variants.
+[Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV.
+[eorzea-time](https://github.com/eorzea-weather/eorzea-time)|A clock of the Eorzea time.
+[eorzea-weather](https://github.com/eorzea-weather/eorzea-weather)|:partly_sunny: Weather forecast for Eorzea.
+[FFXIVWeather](https://github.com/karashiiro/FFXIVWeather)|FFXIV weather forecast library for C# applications. 
 [garlandtools-api](https://github.com/karashiiro/garlandtools-api)|An unofficial Node wrapper for the Garland Tools API.
 [kobold](https://github.com/ackwell/kobold)|Modular SqPack reader written in TS.
 [Lumina](https://github.com/NotAdam/Lumina)|A simple, performant and extensible framework for interacting with FFXIV game data
-[Machina](https://github.com/ravahn/machina)|Network capture library for realtime TCP/IP decoding from a windows application. Includes an extension library to support FFXIV data capture. (C#)
+[Machina](https://github.com/ravahn/machina)|Network capture library for realtime TCP/IP decoding from a windows application. 
 [pcap-ffxiv](https://github.com/ffxiv-teamcraft/pcap-ffxiv)|A library for capturing FFXIV game packets in JS/TS.
-[performgen](https://github.com/ff14wed/performgen)|MML -> FFXIV Perform network data compiler. (Golang)
+[performgen](https://github.com/ff14wed/performgen)|MML -> FFXIV Perform network data compiler.
 [xivnet](https://github.com/ff14wed/xivnet)|A Golang parser for incoming or outgoing unencrypted FFXIV network traffic.
-[zanarkand](https://github.com/ayyaruq/zanarkand)|Network capture library for realtime FFXIV Frame and FFXIV Message reading from a TCP/IP stream. (Golang)
+[zanarkand](https://github.com/ayyaruq/zanarkand)|Network capture library for realtime FFXIV Frame and FFXIV Message reading from a TCP/IP stream. 
 
 ## Desktop App
 
