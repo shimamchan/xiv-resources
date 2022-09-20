@@ -84,18 +84,6 @@ Name|Description
 [FFXIV Weather Lookup](https://asvel.github.io/ffxiv-weather/)|天気
 [Skywatcher](https://ffxiv.pf-n.co/skywatcher)|天気
 
-## Web App_ゴールドソーサー、ミニゲーム
-
-
-Name|Description
----|---
-[Another Triple Triad Tracker](https://triad.raelys.com/)|Another website for tracking your Final Fantasy XIV Triple Triad card collection.
-[Cactpot.xyz](http://cactpot.xyz/)|Mobile friendly Final Fantasy XIV Mini-Cactpot perfect solver. Maximize your cactpot winnings.
-[FFXIV Cactpot Solver](https://super-aardvark.github.io/yuryu/)|FFXIV Cactpot Solver.
-[Mini Cactpot](https://ffxiv.pf-n.co/mini-cactpot)|Calculator for the Mini Cactpot lottery.
-[Wondrous Tails](https://ffxiv.pf-n.co/wondrous-tails)|クロ手帳
-[High or Low](https://ffxiv.pf-n.co/high-or-low)|Calculator for the guessing game "High or Low" played against Tista-Bie in Eulmore.
-
 ## Web App_特殊ダンジョン
 
 
@@ -148,76 +136,16 @@ Name|Description
 Name|Description
 ---|---
 [Aetherometer](https://github.com/ff14wed/aetherometer)|Framework that allows plugins to easily process network-level information from FFXIV.
-[BardMusicPlayer](https://bardmusicplayer.com/)|Bard Music Player is an automated music player for playing MIDI songs in FFXIV using the Bard's Performance mode.
-[CMTool](https://github.com/imchillin/CMTool)|Client modding tool.
 [俺TOOL 棒読みちゃん](https://ffxiv.ap.exdreams.net/)|読み上げ
 [FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker.
 [FFXIVAPP](https://github.com/FFXIVAPP/ffxivapp)|(No description)
 [FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|A faster launcher for the game with a rich third-party plugin ecosystem.
 [FFXIV TexTools](https://github.com/TexTools/FFXIV_TexTools_UI)|An application used to modify the textures and models for the game Final Fantasy XIV.
 [MakePlace](https://jawslouis.itch.io/makeplace)|A tool to preview and edit housing layouts outside the game.
-[RINGS](https://github.com/anoyetta/RINGS)|Chat communication enhancer for FFXIV.
-[TataruHelper](https://github.com/NightlyRevenger/TataruHelper)|Application for translation of in-game texts in Japan MMORPG - Final Fantasy XIV.
 [XivAlexander](https://github.com/Soreepeong/XivAlexander)|Double weave on high latency add-on for Final Fantasy XIV for Windows PC.
 [XivMitmLatencyMitigator](https://github.com/Soreepeong/XivMitmLatencyMitigator)|Double weave for everyone, including PC, Mac, and PS4 users.
 [XIVNote](https://github.com/anoyetta/XIVNote)|「14ノート」FFXIV向け付箋ツール
 [WaymarkLibrarian](https://github.com/PunishedPineapple/WaymarkLibrarian)|Tool for FFXIV to store unlimited waymark presets and swap them into and out of the game as-required.
-
-## ACT
-
-
-Name|Description
----|---
-[FFXIV ACT Plugin](https://github.com/ravahn/FFXIV_ACT_Plugin)|FFXIV Plugin for Advanced Combat Tracker.
-[ACT-Discord-Triggers](https://github.com/Makar8000/ACT-Discord-Triggers)|An ACT plugin for routing audio to discord.
-[ACT.DFAssist](https://github.com/purutu/ACT.DFAssist)|DFAssist fork for ACT3.
-[ACT.FFXIVPing](https://github.com/Noisyfox/ACT.FFXIVPing)|A simple ACT plugin displays network ping in a small overlay for FFXIV.
-[ACT.FFXIVTranslate](https://github.com/Noisyfox/ACT.FFXIVTranslate)|Translate players' chatting.
-[ACT.FoxTTS](https://github.com/Noisyfox/ACT.FoxTTS)|Add Chinese TTS (and maybe more) to ACT & TTSYukkuri.
-[ACT.Hojoring](https://github.com/anoyetta/ACT.Hojoring)|FFXIV Advanced Combat Tracker plugin. Includes triggers, TTS, and HUD plugins.
-[Matcha](https://github.com/thewakingsands/matcha)|Matcha (抹茶) is an ACT plugin that provides notifications for in-game events.
-[OverlayPlugin](https://github.com/ngld/OverlayPlugin)|Yet another OverlayPlugin fork.
-[Paisley Park](https://github.com/LeonBlade/PaisleyPark)|A waymark preset tool for FFXIV.
-[SkillDisplay](https://github.com/rawrington/SkillDisplay)|A simple no-frills ACTWebSocket overlay for showing actions pressed in an overlay window.
-[Triggernometry](https://github.com/paissaheavyindustries/Triggernometry)|plugin for Advanced Combat Tracker
-[universalis_act_plugin](https://github.com/goaaats/universalis_act_plugin)|ACT plugin to upload market board data to https://universalis.app
-
-## ACT: Overlays
-
-
-Name|Description
----|---
-[ACT_DFAPlugin](https://github.com/qitana/ACT_DFAPlugin)|FFXIV Duty Finder Assist
-[ACT_PingPlugin](https://github.com/qitana/ACT_PingPlugin)|The add-on shows ping status for connected server.
-[cactbot](https://github.com/quisquous/cactbot)|FFXIV JavaScript Raiding Overlay.
-[Codex](https://github.com/mkaminsky11/Codex)|Extra gauges and buff trackers for FFXIV.
-[ffxiv_act_dfassist](https://github.com/easly1989/ffxiv_act_dfassist)|Duty Finder Assist Plugin for ACT
-[ffxiv-opener-overlay](https://github.com/ChalkPE/ffxiv-opener-overlay)|ACT overlay for Final Fantasy XIV that shows your real-time skill sequences.
-[horizoverlay](https://github.com/bsides/horizoverlay)|A simple horizontal damage meter overlay for Final Fantasy XIV.
-[ikegami](https://github.com/hibiyasleep/ikegami)|Horizontal FFXIV Miniparse Overlay.
-[kagami](https://github.com/ramram1048/kagami)|FFXIV OverlayPlugin skin for capturing used skills.
-[kagerou](https://github.com/hibiyasleep/kagerou)|ACT-FF14 OverlayPlugin Skin - Modern, easily configurable, always up-to-date.
-[klondike](https://github.com/kalilistic/klondike)|FFXIV ACT Overlay.
-
-## Dalamud
-
-
-Name|Description
----|---
-[XIV Plugins](https://xivplugins.com/)|dalamudプラグイン一覧
-[FFLogsLookupPlugin](https://github.com/maributt/FFLogsLookupPlugin)|オタクスカウター
-[FFLogsViewer](https://github.com/Aireil/FFLogsViewer)|オタクスカウター
-[FPSLimiter](https://github.com/maributt/FPSLimiter)|FPSキャップ
-[ffxiv-startup-commands](https://github.com/saltycog/ffxiv-startup-commands)|コマンド作成
-[Macrology](https://git.sr.ht/~jkcclemens/Macrology)|マクロ拡張
-[SomethingNeedDoing](https://github.com/daemitus/SomethingNeedDoing)|マクロ拡張
-[MakePlacePlugin](https://github.com/jawslouis/MakePlacePlugin)|ハウジング補助_配置記憶
-[HousingPos](https://github.com/Bluefissure/HousingPos)|ハウジング補助_配置記憶
-[BDTHPlugin](https://github.com/LeonBlade/BDTHPlugin)|ハウジング_浮かせ補助
-[MidiBard](https://github.com/akira0245/MidiBard)|自動演奏
-[Penumbra](https://github.com/xivdev/Penumbra)|MOD
-[HeelsPlugin](https://github.com/LeonBlade/HeelsPlugin)|MOD拡張
-[YesAlready](https://github.com/daemitus/YesAlready)|自動で「はい」選択するやつ
 
 ## Research Tools
 
