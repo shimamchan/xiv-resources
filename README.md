@@ -23,9 +23,12 @@ Name|Description
 [Eriones](https://en.eriones.com/)|データベース
 [FFXIV MarketBoard](https://www.ffxivmb.com)|マケボ情報
 [Universalis](https://universalis.app/)|マケボ情報
+[XivHub Market](https://market.xivhub.org/)|マケボ情報 alternative to universalis
+[Saddlebag Exchange](https://saddlebagexchange.com/)|マケボ情報 alternative to universalis
 [A Realm Remapped](https://arealmremapped.com/)|マップ情報（FATE、地図、エーテライト等）
 [Heavenswhere](http://heavenswhere.com/)|デイリーモブ、地図、風脈等の地図情報
 [Faloop](https://faloop.app/)|モブハン
+[Miqo](https://miqo.fish/)|無人島開拓工房シミュレータ
 [俺TOOLS TODOリスト](https://ffxiv.ap.exdreams.net/todo/)|TODOリスト
 [XIV ToDo](https://xivtodo.com/)|TODOリスト
 [FFXIV Squadron](http://ffxivsquadron.com/)|冒険者小隊のステータスシミュレータ
@@ -78,6 +81,7 @@ Name|Description
 [FFXIV Teamcraft](https://ffxivteamcraft.com/)|An FFXIV tool to handle collaborative crafts easily.
 [Cat became hungry](https://en.ff14angler.com/index.php?)|釣りデータベース
 [Ocean Fishing](https://ffxiv.pf-n.co/ocean-fishing)|オーシャンフィッシング
+[Nophica's Tidings](https://catgirl-jade.github.io/nophicas-tidings/)|ギャザラーオプティマイザ
 [xivLeve](https://xivleve.org/)|リーブ納品物の最安値サーバ検索
 [俺TOOLS お天気リスト](https://ffxiv.wl.exdreams.net/)|天気
 [eorzea-weather](https://eorzea-weather.info/)|天気
@@ -100,7 +104,7 @@ Name|Description
 Name|Description
 ---|---
 [XIVAPI](https://xivapi.com/)|ゲームデータAPI
-[XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|APIブラウザ
+~~ [XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|APIブラウザ ~~ リンク切れ
 [XIV Plugins API](https://app.swaggerhub.com/apis/kalilistic/xiv-plugins-api)|REST API for dalamud and ACT plugins.
 [Another Triple Triad Tracker](https://documenter.getpostman.com/view/1779678/TzXzDHRR)|REST API for Triple Triad.
 [FFXIV Collect](https://documenter.getpostman.com/view/1779678/TzXzDHM1)|REST API for collections (e.g. achievements, mounts, minions).
