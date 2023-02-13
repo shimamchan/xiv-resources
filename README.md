@@ -55,7 +55,7 @@ Name|Description
 [俺TOOLS 散開マクロエディタ](https://ffxiv.ap.exdreams.net/spreading/)|マクロエディタ
 [俺TOOLS スキルシミュレータ](https://ffxiv.ss.exdreams.net/)|スキルシミュレータ
 [DoW/M Rotations](http://ffxivrotations.com/)|スキル回しの画像生成
-[Partner Calculator](http://partnercalc.herokuapp.com/)|クロポジパートナーチェック
+[Partner Calculator](https://partnercalc.app/)|クロポジパートナーチェック
 [FF Logs](https://www.fflogs.com/)|logs
 [xivanalysis](https://xivanalysis.com/)|analysis
 [xivsim](https://www.xivsim.com/)|レイドシミュレータ
@@ -104,7 +104,6 @@ Name|Description
 Name|Description
 ---|---
 [XIVAPI](https://xivapi.com/)|ゲームデータAPI
-~~ [XIVAPI Browser](https://ffxiv.pf-n.co/xivapi)|APIブラウザ ~~ リンク切れ
 [XIV Plugins API](https://app.swaggerhub.com/apis/kalilistic/xiv-plugins-api)|REST API for dalamud and ACT plugins.
 [Another Triple Triad Tracker](https://documenter.getpostman.com/view/1779678/TzXzDHRR)|REST API for Triple Triad.
 [FFXIV Collect](https://documenter.getpostman.com/view/1779678/TzXzDHM1)|REST API for collections (e.g. achievements, mounts, minions).
